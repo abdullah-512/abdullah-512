@@ -1,15 +1,39 @@
-# 💫 About Me:
-🔭 I’m currently working on HTML,CSS and JS<br>🌱 I’m currently learning
+# Hi there, I'm Abdullah! 👋
 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abdullah-512&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abdullah-512&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdullah-512&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub profile! I am a passionate learner currently diving deep into the world of web development. I love building clean, interactive, and user-friendly web experiences.
 
 ---
-[![](https://komarev.com/ghpvc/?username=abdullah-512&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 📚 **Currently learning:** HTML5, CSS3, and JavaScript (JS)
+- 💡 **My Goal:** To master frontend development and build awesome web applications.
+- 🌱 **Looking to collaborate on:** Simple open-source projects or beginner-friendly web challenges.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+Right now, my toolkit includes:
+
+- **Languages:** HTML5, CSS3, JavaScript
+- **Tools:** VS Code, Git, GitHub
+
+---
+
+## 📈 My Learning Journey
+
+- [ ] Master semantic HTML and CSS layouts (Flexbox & Grid)
+- [ ] Build interactive web pages using vanilla JavaScript
+- [ ] Create my first portfolio website
+- [ ] Learn a modern frontend framework (like React or Vue)
+
+---
+
+## 📬 Connect with Me
+
+- 💼 LinkedIn: [](https://www.linkedin.com/)
+- 🐦 Twitter: [](https://twitter.com/)
+- 📧 Email: [abdullahjutt2626@jmali.com]
+
+Thanks for stopping by! Feel free to check out my repositories and see what I'm working on. 😊
